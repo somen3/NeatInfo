@@ -2,5 +2,4 @@
 
 You can run the conky theme with conky manager app. To use the conky theme, simply extract the file, and place the folder inside your ~/user/.conky/ directory. 
 
-NeatInfo lets you add your Todos to the conky, and to have your todos displayed in the conky, all you have to do is create a file, todo.txt in your ~/Documents. You can add your todos to the todo.txt, and it will display in your conky. 
-
+NeatInfo lets you add your notes and todos to the conky. To have your notes and todos displayed in the conky, you simply have to create a file, note.txt in your ~/Documents. Once you create this file, you can add your notes and todos to it and it will display them in your conky. 
