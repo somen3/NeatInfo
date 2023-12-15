@@ -4,7 +4,8 @@ You can run the conky theme with conky manager app. To use the conky theme, simp
 
 NeatInfo lets you add your notes and todos to the conky. To have your notes and todos displayed in the conky, you simply have to create a file, note.txt in your ~/Documents. Once you create this file, you can add your notes and todos to the text file to have them displayed in your conky. 
 
-![Uploading neatinfo.png…]()
+![neatinfo](https://github.com/somen3/NeatInfo/assets/92948254/4b618d5f-56ec-4bd4-baae-affd65eb7c6d)
+
 
 
 How to take notes?
