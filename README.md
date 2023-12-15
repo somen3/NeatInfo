@@ -24,6 +24,6 @@ bullet points by pressing:
 ctrl+shift+u2022.
 
 • Besides, you can add your 
-note shortcut to your left 
+~/Documents/note.txt shortcut to your left 
 panel for quick access.
 
