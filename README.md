@@ -7,12 +7,7 @@ NeatInfo lets you add your notes and todos to the Conky. To display your notes a
 ![neatinfo](https://github.com/somen3/NeatInfo/assets/92948254/7398537b-7031-4649-ba2f-a61f2fd7248d)
 
 
-## Features
 
-- Notes & Todos
-- News Headlines
-- Dictionary
-- Motivational Quotes
   
 
 
