@@ -2,6 +2,7 @@
 
 ## What is NeatInfo?
 NeatInfo is a Conky theme crafted exclusively for Xfce environments, offering a clean and comprehensive display of system information on your desktop. Beyond its aesthetic appeal, NeatInfo introduces a range of addons that enhance its functionality:
+![2023-12-21_20-37](https://github.com/somen3/NeatInfo/assets/92948254/b1bd6d87-f3b9-48e5-8928-5b6301aae23a)
 
 ### Addons:
 - **Note-Taking and Todos**: Seamlessly jot down notes and manage todos directly within Conky.
