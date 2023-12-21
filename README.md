@@ -1,34 +1,35 @@
 # NeatInfo
 
-You can run the Conky theme with the Conky Manager app. To use the Conky theme, simply extract the file and place it inside your ~/user/.conky/ directory. 
+## What is NeatInfo?
+NeatInfo is a Conky theme crafted exclusively for Xfce environments, offering a clean and comprehensive display of system information on your desktop. Beyond its aesthetic appeal, NeatInfo introduces a range of addons that enhance its functionality:
 
-NeatInfo lets you add your notes and todos to the Conky. To display your notes and todos in the Conky, you simply have to create a file, note.txt, in your ~/Documents. Once you create this file, you can add your notes and todos to the text file to have them displayed in your Conky. 
+### Addons:
+- **Note-Taking and Todos**: Seamlessly jot down notes and manage todos directly within Conky.
+- **Dictionary Integration**: Instantly look up word meanings and view them within Conky.
+- **Motivational Quotes**: Daily doses of motivation displayed conveniently on Conky.
+- **Weather Updates**: Stay informed about weather conditions right from your desktop.
+- **Calculator**: Perform calculations and view results within Conky.
+- **System Info**: Access comprehensive system information directly through Conky.
 
-![neatinfo](https://github.com/somen3/NeatInfo/assets/92948254/7398537b-7031-4649-ba2f-a61f2fd7248d)
+## Installation
+1. **Download NeatInfo**: Acquire the theme files.
+2. **Extract the Files**: Unzip the downloaded files.
+3. **Run with Conky Manager**:
+   - Launch Conky Manager.
+   - Click on "Add" and navigate to the NeatInfo theme folder (`~/.conky/`).
+   - Select the NeatInfo configuration file to activate the Conky theme.
 
+4. **Run `create_shortcuts.sh`**:
+   - Open Terminal.
+   - Navigate to the NeatInfo directory.
+   - Execute `chmod +x create_shortcuts.sh` to grant execution permissions.
+   - Run `./create_shortcuts.sh` to add essential application shortcuts to your desktop environment.
 
-
-  
-
-
-
-
-
-How to take notes?
-------------------
-• It can be a handy tool for 
-taking quick notes.
-
-• Since the width is limited,
-you can break the lines by 
-hitting Enter to fit the 
-space.
-
-• You can get these nice 
-bullet points by pressing: 
-ctrl+shift+u2022.
-
-• Besides, you can add your 
-~/Documents/note.txt shortcut to your left 
-panel for quick access.
-
+## Usage
+- **Open Conky Note**: Ctrl + Shift + N
+- **Clear Conky Note**: Ctrl + Alt + C
+- **Dictionary**: Ctrl + Alt + D (Instant word lookup on Conky)
+- **Quotes**: Ctrl + Alt + Q
+- **Weather**: Ctrl + Alt + W
+- **Calculator**: Alt + Shift + C
+- **System Info**: Ctrl + Shift + I
