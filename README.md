@@ -13,6 +13,7 @@ NeatInfo is a Conky theme crafted exclusively for Xfce environments, offering a 
 - **System Info**: Access comprehensive system information directly through Conky.
 - **SLNT (Stop Loss and Target Calculator)**: A specialized feature catering to traders, calculating and displaying stop-loss and target prices.
 - **Refresh Network**: Rrefresh network using a shortcut.
+- **RSSFeeds**: Fetch content from your favorite news sites.
 
 ## Installation
 1. **Download NeatInfo**: Acquire the theme files.
@@ -36,3 +37,4 @@ NeatInfo is a Conky theme crafted exclusively for Xfce environments, offering a 
 - **Weather**: Ctrl + Alt + W
 - **Calculator**: Alt + Shift + C
 - **System Info**: Ctrl + Shift + I
+- **RSSFeeds**: Alt + Shift +R (You can add your favorite rssfeed url to ~/.conky/NeatInfo/addon/rssfeeds.txt)
