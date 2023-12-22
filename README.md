@@ -37,4 +37,5 @@ NeatInfo is a Conky theme crafted exclusively for Xfce environments, offering a 
 - **Weather**: Ctrl + Alt + W
 - **Calculator**: Alt + Shift + C
 - **System Info**: Ctrl + Shift + I
+- **SLNT**: Left Ctrl + Left Shift + S
 - **RSSFeeds**: Alt + Shift +R (You can add your favorite rssfeed url to ~/.conky/NeatInfo/addon/rssfeeds.txt)
