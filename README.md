@@ -10,6 +10,14 @@ NeatInfo is a Conky theme crafted exclusively for Xfce environments, offering a 
 - **System Info**: Access comprehensive system information directly through Conky.
 - **RSSFeeds**: Fetch content from your favorite news sites.
 
+## Prerequisites
+
+Before using this Conky theme, ensure you have the following dependencies installed:
+
+- **xmlstarlet**: Used for XML document processing.
+- **jq**: A lightweight and flexible command-line JSON processor.
+- **ansiweather**: Provides weather information in the terminal.
+
 ## Installation
 1. **Download NeatInfo**: Acquire the theme files.
 2. **Extract the Files**: Unzip the downloaded files.
