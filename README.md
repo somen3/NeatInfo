@@ -21,6 +21,7 @@ Before using this Conky theme, ensure you have the following dependencies instal
 
 
 ## Installation
+
 1. **Download NeatInfo**: Acquire the theme files.
 2. **Extract the Files**: Unzip the downloaded files.
 3. **Run with Conky Manager**:
