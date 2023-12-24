@@ -26,11 +26,12 @@ NeatInfo is a Conky theme crafted exclusively for Xfce environments, offering a 
 
 ## Usage
 
-- **Note**: <Super>N
-- **Clear Conky Note**: <Super>C
-- **Weather**: <Super>W
-- **RSS Feeds**: <Super>R (You can add your favorite rssfeed url to ~/.conky/NeatInfo/addon/rssfeeds.txt)
-- **System Info**: <Super>S
+- **Note**: Super + N
+- **Clear Conky Note**: Super + C
+- **Weather**: Super + W
+- **RSS Feeds**: Super + R (You can add your favorite rssfeed url to ~/.conky/NeatInfo/addon/rssfeeds.txt)
+- **System Info**: Super + S
+
 
 
 
