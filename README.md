@@ -5,6 +5,7 @@ NeatInfo is a Conky theme crafted exclusively for Xfce environments, offering a 
 ![2023-12-21_20-37](https://github.com/somen3/NeatInfo/assets/92948254/b1bd6d87-f3b9-48e5-8928-5b6301aae23a)
 
 ## Addons:
+
 - **Note and Todos**: Seamlessly jot down notes and manage todos directly within Conky.
 - **Weather Updates**: Stay informed about weather conditions right from your desktop.
 - **System Info**: Access comprehensive system information directly through Conky.
