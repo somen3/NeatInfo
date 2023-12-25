@@ -19,6 +19,7 @@ Before using this Conky theme, ensure you have the following dependencies instal
 - **xmlstarlet**: Used for XML document processing.
 - **jq**: A lightweight and flexible command-line JSON processor.
 - **ansiweather**: Provides weather information in the terminal.
+- **neofetch**: Provides system information.
 
 
 ## Installation
